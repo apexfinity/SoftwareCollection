@@ -1,5 +1,5 @@
 =====START Create useful folder====
 define folder.Create (
-add folder useful > Apex-YT/SoftwareCollection.git
+add folder "useful" > Apex-YT/SoftwareCollection.git
 )
 =====END Create useful folder====
