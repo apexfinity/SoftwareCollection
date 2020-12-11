@@ -1,0 +1,5 @@
+=====START Create Linux folder====
+define folder.Create (
+add folder "Linux" > Apex-YT/SoftwareCollection.git/OS/
+)
+=====END Create useful folder====
