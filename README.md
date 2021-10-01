@@ -1,2 +1,2 @@
 # SoftwareCollection
-See more at [apexfinity.ga/software.html](https://apexfinity.ga/software.html)
+See more at [dl.apexfinity.ga](dl.apexfinity.ga)
